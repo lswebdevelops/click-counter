@@ -11,6 +11,9 @@ function App() {
         src={freeCodeCampLogo}
         alt='Logo de freeCodeCamp' />
       </div>
+      <div className='contenedor-principal'>
+        
+      </div>
     </div>
   );
 }
