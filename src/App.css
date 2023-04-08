@@ -30,7 +30,7 @@ html, body{
   height: 50px;
 }
 
-/* .contenedor-principal{
+.contenedor-principal{
   height: 550px;
   min-width: 600px;
   display: flex;
@@ -38,4 +38,4 @@ html, body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  } */
+  }
