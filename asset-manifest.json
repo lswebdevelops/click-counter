@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/click-counter/static/css/main.17c39755.css",
+    "main.js": "/click-counter/static/js/main.675354c5.js",
+    "static/media/freecodecamp-logo.png": "/click-counter/static/media/freecodecamp-logo.922fdeee3b1a1c6ac1f9.png",
+    "index.html": "/click-counter/index.html",
+    "main.17c39755.css.map": "/click-counter/static/css/main.17c39755.css.map",
+    "main.675354c5.js.map": "/click-counter/static/js/main.675354c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c39755.css",
+    "static/js/main.675354c5.js"
+  ]
+}
