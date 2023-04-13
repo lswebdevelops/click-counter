@@ -1,4 +1,12 @@
+
+https://lswebdevelops.github.io/click-counter/
+
+
 # Getting Started with Create React App
+
+
+
+![Website:](https://github.com/lswebdevelops/click-counter/blob/main/src/imagenes/freeCodeCampCounter.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
