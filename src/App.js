@@ -4,6 +4,7 @@ import Boton from './componentes/Boton';
 import Contador from './componentes/Contador';
 import { useState } from 'react';
 
+
 function App() {
 // creating a hook: useState
   const [numClics, setNumClics] = useState(0);
